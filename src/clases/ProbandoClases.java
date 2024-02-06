@@ -6,6 +6,9 @@ public class ProbandoClases {
 		
 		HolaMundo hola=new HolaMundo();
 		System.out.println(hola);
+
+		HolaMundo hola2=new HolaMundo();
+		System.out.println(hola2);
 	}
 
 }
